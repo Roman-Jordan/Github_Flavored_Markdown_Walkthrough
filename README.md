@@ -4,7 +4,7 @@ In taking on the adventure of trying to make a markdown parser to spec I came ac
 ## Understanding Github Flavored Markdown
 
 ### Tabs
-    Code Block with single tab or four spaces
+    Code Block with two tabs or four spaces chars: '\t\t', '        '
     roman
     roman
   
